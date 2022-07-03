@@ -1,4 +1,7 @@
-## Zadanie 4. Sprawdzanie duplikatów. 
+# Zadanie 4 Given a string, write a Python program that finds all the duplicate
+# characters which are similar to each others
+
+
 from collections import Counter
 from multiprocessing.reduction import duplicate
 

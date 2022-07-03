@@ -1,4 +1,6 @@
-## Zadanie 5 Wyszukiwanie liniowe
+# Zadanie 5. Write a Python Program for Linear Search.
+#  Given an array arr[] of n elements, write a function to search a given element x in
+#  arr[].
 
 def linearSearch(arr, element) : 
     arr2 = []
